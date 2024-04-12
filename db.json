@@ -21,6 +21,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "673c",
+      "name": "Teste 2",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ef96",
+      "name": "Teste 5",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
