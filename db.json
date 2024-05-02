@@ -8,8 +8,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 500,
+      "services": [
+        {
+          "name": "Site",
+          "cost": "500",
+          "description": "Desenvolver site",
+          "id": "6706e8f2-337f-48f8-9ca9-6d4d98534cae"
+        }
+      ]
     }
   ],
   "categories": [
