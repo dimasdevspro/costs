@@ -3,20 +3,13 @@
     {
       "id": "3f63",
       "name": "1",
-      "budget": "90000",
+      "budget": "9000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 500,
-      "services": [
-        {
-          "name": "Site",
-          "cost": "500",
-          "description": "Desenvolver site",
-          "id": "6706e8f2-337f-48f8-9ca9-6d4d98534cae"
-        }
-      ]
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
