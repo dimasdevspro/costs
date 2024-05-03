@@ -1,5 +1,5 @@
 <h3 align="center">Costs</h3>
-<p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"></p>
+<p align="center"><img src="https://img.shields.io/badge/<ReactJS>-<green>"> <img src="https://img.shields.io/badge/<NodeJS>-<green>"></p>
 ### Indice
 
 * [Sobre](#sobre)
@@ -14,7 +14,7 @@
 ### Sobre 
 [↩](#indice)
 
-<p>Projeto de um formulário de login.</p>
+<p>Aplicativo que administra o custo de projetos de TI.</p>
 
 ### Status do Projeto 
 [↩](#indice)
@@ -44,10 +44,10 @@ $ https://code.visualstudio.com/
 # Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
 # Clone este repositório com o seguinte comando abaixo
-$ git clone https://github.com/dimasdevspro/camp.in
+$ git clone https://github.com/dimasdevspro/costs
 
 # Ainda no terminal, acesse a pasta com mais um comando
-$ cd camp.in
+$ cd costs
 
 # Agora digite este comando, para editar/testar o projeto
 $ code .
