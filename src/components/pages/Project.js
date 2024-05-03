@@ -1,4 +1,4 @@
-import { parse, v4 as uuidv4 } from 'uuid'
+import { v4 as uuidv4 } from 'uuid'
 
 import styles from './Project.module.css'
 
@@ -96,7 +96,6 @@ function Project() {
         })
         .then((resp) => resp.json())
         .then((data) => {
-            projectUpdated = data
             setProject(projectUpdated)
             setServices(servicesUpdated)
             setMessage('Serviço removido com sucesso!')
