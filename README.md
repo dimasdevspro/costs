@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+<h3 align="center">Costs</h3>
+<p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"></p>
+### Indice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* [Sobre](#sobre)
+* [Status do Projeto](#status-do-projeto)
+* [Pré-requisitos](#pré-requisitos)
+* [Testes](#testes)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autor](#autor)
+* [Licença](#licença)
 
-## Available Scripts
 
-In the project directory, you can run:
+### Sobre 
+[↩](#indice)
 
-### `npm start`
+<p>Projeto de um formulário de login.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Status do Projeto 
+[↩](#indice)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h4> 	
+Concluído!
+</h4>
 
-### `npm test`
+### Pré-requisitos 
+[↩](#indice)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para começar, você vai precisar instalar em sua máquina as seguintes ferramentas:
 
-### `npm run build`
+- Um repositório para seu projeto [Git](https://git-scm.com);
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Um editor de código [VSCode](https://code.visualstudio.com/);
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Testes 
+[↩](#indice)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Baixe o editor equivalente para a sua plataforma
+$ https://code.visualstudio.com/
 
-### `npm run eject`
+# Vá para a pasta de downloads e execute o arquivo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Clone este repositório com o seguinte comando abaixo
+$ git clone https://github.com/dimasdevspro/camp.in
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Ainda no terminal, acesse a pasta com mais um comando
+$ cd camp.in
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Agora digite este comando, para editar/testar o projeto
+$ code .
+```
 
-## Learn More
+### Tecnologias utilizadas 
+[↩](#indice)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+As seguintes ferramentas foram usadas na construção do projeto:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [VSCode](https://code.visualstudio.com/);
+- [Git](https://git-scm.com).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Autor 
+[↩](#indice)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a href="https://github.com/dimasdevspro">
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/53888623?s=460&u=3c88fc42c7a0dc90293f9480a4288bf2f6a09396&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Dimas Alves Pereira</b></sub></a> <a href="https://github.com/dimasdevspro" title="Github"></a>
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Feito com ❤️ por Dimas 👋🏽 Entre em contato!
 
-### Advanced Configuration
+[![Instagram Badge](https://img.shields.io/badge/-@dimasdevspro-f09433?style=flat-square&labelColor=f09433&logo=instagram&logoColor=white&link=https://www.instagram.com/dimasdevspro/)](https://www.instagram.com/dimasdevspro/) [![Linkedin Badge](https://img.shields.io/badge/-Dimas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas_apereira/)](https://www.linkedin.com/in/dimas-apereira/) 
+[![Gmail Badge](https://img.shields.io/badge/-dimasdevspro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimasdevspro@gmail.com)](mailto:dimasdevspro@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Licença 
+[↩](#indice)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">

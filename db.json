@@ -8,8 +8,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": null,
+      "services": [
+        {
+          "name": "Site",
+          "cost": "500",
+          "description": "Desenvolver site",
+          "id": "27a4eac9-931f-48ae-9c07-3d23f61939ff"
+        }
+      ]
     },
     {
       "id": "ae77",
@@ -18,6 +25,17 @@
       "category": {
         "id": "3",
         "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "497f",
+      "name": "Projeto 3",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []

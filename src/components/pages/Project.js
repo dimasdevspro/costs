@@ -96,6 +96,7 @@ function Project() {
         })
         .then((resp) => resp.json())
         .then((data) => {
+            projectUpdated = data
             setProject(projectUpdated)
             setServices(servicesUpdated)
             setMessage('Serviço removido com sucesso!')
