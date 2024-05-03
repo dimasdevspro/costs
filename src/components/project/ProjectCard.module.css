@@ -53,6 +53,10 @@
     background-color: #fbe7c6;
 }
 
+.project_card_actions {
+    display: flex;
+}
+
 .project_card_actions a,
 .project_card_actions button {
     text-decoration: none;
