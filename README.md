@@ -1,5 +1,8 @@
 <h3 align="center">Costs</h3>
 <p align="center"><img src="https://img.shields.io/badge/<ReactJS>-<green>"> <img src="https://img.shields.io/badge/<NodeJS>-<green>"></p>
+
+<img src="./public/costs_video1.gif">
+
 ### Indice
 
 * [Sobre](#sobre)
